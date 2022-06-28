@@ -1,3 +1,7 @@
+## This repository is no longer maintained.
+## Please use this great fork https://github.com/MarkusDeutschmann/ssh2plink 
+### I appreciate your work, Markus :-)
+
 # ssh2plink
 
 A tiny wrapper for plink.exe just for faking vscode's [remote ssh extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
